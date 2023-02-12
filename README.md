@@ -38,3 +38,5 @@ As you can hopefully notice that this type of ciphering technique is powerful as
 - [Cihangir Tezcan (Frequency Analysis)](https://www.youtube.com/watch?v=opqgXvGsk6U)
 - [101computing.net (mono-alphabetic cipher)](https://www.101computing.net/mono-alphabetic-substitution-cipher/)
 - [Crypto Corner (mono-alphabetic cipher)](https://crypto.interactive-maths.com/monoalphabetic-substitution-ciphers.html)
+
+# Reda Fakih, February 10, 2023
