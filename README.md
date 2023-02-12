@@ -9,7 +9,7 @@ A problem that rises with a `Caeser cipher` is that anyone with the ability to a
 
 # Solution?
 A `mono-alphabetic cipher` works sort of the same as the `Caeser cipher` in terms of using the shifting of alphbet technique, however it adds an extra layer of complexity on top by adding the use of a **Keyword** in order to create a new ordering of the alphabet.
-For example, We all know the standard alphabet that we studied back in kindergarten class:
+For example: We all know the standard alphabet that we studied back in kindergarten class:
 > ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 Okay, now lets say the ciphering keyword for today is `Basketball`.
@@ -26,6 +26,10 @@ As you can hopefully notice that this type of ciphering technique is powerful as
 
 # TODO:
 - Expand on the encryption to also consider numbers and symbols by shifting the numbering digits (0 -> 9) also by applying the same technique
+
+# Using the Library
+- You can just copy paste the header file `MonoAlphabeticCipher/src/Cipherer.h` and use it since it is a single header file library
+- You can also clone the repository and run the premake command `premake5 vs2022` in the main directory containing the main `premake5.lua` and `LICENSE` files. If you do not have premake you can download it from [their website](https://premake.github.io/download/)
 
 <a id="References-anchor"></a>
 # References:
